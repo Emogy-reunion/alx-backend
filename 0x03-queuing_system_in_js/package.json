@@ -1,0 +1,14 @@
+{
+  "name": "queuing_system_in_js",
+  "version": "1.0.0",
+  "description": "A simple queuing system using Redis and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mark victor",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^3.1.2"
+  }
+}
